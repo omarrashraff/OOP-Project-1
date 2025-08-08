@@ -1,8 +1,3 @@
-//Name: Ganna Mohamed Abdelrahman Mahmoud
-//ID: 20236024
-//Name: Omar Ashraf Mohamed
-//ID: 20235021
-
 #include <iostream>
 #include "passenger.h"
 #include "flight.h"
@@ -149,3 +144,4 @@ int main()
 
    return 0;
 }
+
